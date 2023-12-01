@@ -1,0 +1,14 @@
+https://bobbyhadz.com/blog/text-align-center-not-working-in-css
+https://www.joshwcomeau.com/css/interactive-guide-to-grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://www.w3schools.com/css/
+https://www.w3schools.com/css/css3_flexbox.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+
+https://www.javatpoint.com/bootstrap-tutorial
+https://icons.getbootstrap.com/
+https://www.codecademy.com/courses/learn-bootstrap/lessons/learn-bootstrap-grid/exercises/layout
+https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
